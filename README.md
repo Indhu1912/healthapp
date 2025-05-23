@@ -10,11 +10,7 @@ This is a simple full-stack Health Appointment Booking System built using the ME
 - **Node.js**: Backend runtime environment
 - **Express.js**: Backend web framework
 - **MongoDB**: NoSQL database for storing appointments
-- **Mongoose**: MongoDB object modeling tool for Node.js
 - **React.js**: Frontend UI library
-- **Fetch API**: For making HTTP requests from React to backend
-- **CORS**: Middleware for enabling cross-origin requests
-- **npm**: Package manager
 
 
 ## Project Structure
